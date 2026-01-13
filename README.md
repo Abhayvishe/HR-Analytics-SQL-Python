@@ -62,4 +62,4 @@ DELETE FROM Employee WHERE emp_id = 2;  -- Payroll will auto-delete (ON DELETE C
 SELECT * FROM EmployeeSalaryView;
 
 
-.
+

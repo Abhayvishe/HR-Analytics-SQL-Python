@@ -63,3 +63,12 @@ SELECT * FROM EmployeeSalaryView;
 
 
 
+
+
+Abhay Vishe
+
+Aspiring Data Analyst | Power BI | SQL | Python
+
+📎 GitHub: https://github.com/Abhayvishe
+📎 LinkedIn: https://www.linkedin.com/in/abhay-vishe
+
